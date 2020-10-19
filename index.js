@@ -1,6 +1,6 @@
 "use strict";
 
-const apiKey = "e43c412e56mshdcf003613f59cecp149a86jsnce3b5f88d321";
+const apiKey = "XXXXXXXXXXXXXXXXXXXXXXXXXXX";
 const HOST = "contextualwebsearch-websearch-v1.p.rapidapi.com";
 const URL = "https://rapidapi.p.rapidapi.com/api/search/NewsSearchAPI";
 
